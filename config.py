@@ -19,7 +19,7 @@ MONGO_DB_URI = "mongodb+srv://LIKITHSELLA:LIKITHSELLA@cluster0.mf3su.mongodb.net
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1002317104468
+LOG_GROUP_ID = -1002480843122
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 8083490228
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/coupleloveship"
-SUPPORT_GROUP = "https://t.me/groupfriendsvili"
+SUPPORT_CHANNEL = "https://t.me/wsRVuKBXzrM1OGM1"
+SUPPORT_GROUP = "https://t.me/wsRVuKBXzrM1OGM1"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
